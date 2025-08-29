@@ -1,0 +1,74 @@
+{
+  "songs": [
+    {
+      "id": "s1",
+      "title": "Song One",
+      "artist": "Artist A",
+      "filePath": "songs/song1.mp3",
+      "albumImage": "images/cover1.jpg"
+    },
+    {
+      "id": "s2",
+      "title": "Song Two",
+      "artist": "Artist B",
+      "filePath": "songs/song2.mp3",
+      "albumImage": "images/cover2.jpg"
+    },
+    {
+      "id": "s3",
+      "title": "Song Three",
+      "artist": "Artist C",
+      "filePath": "songs/song3.mp3",
+      "albumImage": "images/cover3.jpg"
+    },
+    {
+      "id": "s4",
+      "title": "Song Four",
+      "artist": "Artist D",
+      "filePath": "songs/song3.mp3",
+      "albumImage": "images/cover3.jpg"
+    },
+    {
+      "id": "s5",
+      "title": "Song Five",
+      "artist": "Artist E",
+      "filePath": "songs/song3.mp3",
+      "albumImage": "images/cover3.jpg"
+    },
+    {
+      "id": "s6",
+      "title": "Song Six",
+      "artist": "Artist F",
+      "filePath": "songs/song3.mp3",
+      "albumImage": "images/cover3.jpg"
+    },
+    {
+      "id": "s7",
+      "title": "Song Seven",
+      "artist": "Artist G",
+      "filePath": "songs/song3.mp3",
+      "albumImage": "images/cover3.jpg"
+    },
+    {
+      "id": "s8",
+      "title": "Song Eight",
+      "artist": "Artist H",
+      "filePath": "songs/song3.mp3",
+      "albumImage": "images/cover3.jpg"
+    },
+    {
+      "id": "s9",
+      "title": "Song Nine",
+      "artist": "Artist I",
+      "filePath": "songs/song3.mp3",
+      "albumImage": "images/cover3.jpg"
+    },
+    {
+      "id": "s10",
+      "title": "Song Ten",
+      "artist": "Artist J",
+      "filePath": "songs/song3.mp3",
+      "albumImage": "images/cover3.jpg"
+    }
+  ]
+}
