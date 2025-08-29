@@ -2,72 +2,72 @@
   "songs": [
     {
       "id": "s1",
-      "title": "Song One",
-      "artist": "Artist A",
+      "title": "Sun Mere Humsafar",
+      "artist": "Arijit Singh",
       "filePath": "songs/song1.mp3",
       "albumImage": "images/cover1.jpg"
     },
     {
       "id": "s2",
-      "title": "Song Two",
-      "artist": "Artist B",
+      "title": "Man Mast Magan",
+      "artist": "Arijit Singh",
       "filePath": "songs/song2.mp3",
       "albumImage": "images/cover2.jpg"
     },
     {
       "id": "s3",
-      "title": "Song Three",
-      "artist": "Artist C",
+      "title": "Itni Si Baat Hain",
+      "artist": "Arijit Singh",
       "filePath": "songs/song3.mp3",
       "albumImage": "images/cover3.jpg"
     },
     {
       "id": "s4",
-      "title": "Song Four",
-      "artist": "Artist D",
-      "filePath": "songs/song3.mp3",
+      "title": "Ae Watan Mere Watan",
+      "artist": "Akashdeep",
+      "filePath": "songs/song4.mp3",
       "albumImage": "images/cover3.jpg"
     },
     {
       "id": "s5",
-      "title": "Song Five",
-      "artist": "Artist E",
-      "filePath": "songs/song3.mp3",
+      "title": "Title Track - Saiyyara",
+      "artist": "Faheem Abdullah",
+      "filePath": "songs/song5.mp3",
       "albumImage": "images/cover3.jpg"
     },
     {
       "id": "s6",
-      "title": "Song Six",
-      "artist": "Artist F",
-      "filePath": "songs/song3.mp3",
+      "title": "Tum Ho Toh",
+      "artist": "Vishal Mishra",
+      "filePath": "songs/song6.mp3",
       "albumImage": "images/cover3.jpg"
     },
     {
       "id": "s7",
-      "title": "Song Seven",
-      "artist": "Artist G",
-      "filePath": "songs/song3.mp3",
+      "title": "Shape Of You",
+      "artist": "Ed Sheeran",
+      "filePath": "songs/song7.mp3",
       "albumImage": "images/cover3.jpg"
     },
     {
       "id": "s8",
-      "title": "Song Eight",
-      "artist": "Artist H",
-      "filePath": "songs/song3.mp3",
+      "title": "Preet Re",
+      "artist": "Darshan Raval",
+      "filePath": "songs/song8.mp3",
       "albumImage": "images/cover3.jpg"
     },
     {
       "id": "s9",
-      "title": "Song Nine",
-      "artist": "Artist I",
-      "filePath": "songs/song3.mp3",
+      "title": "Dil Se Ziddi",
+      "artist": "Nayantara Bhatkal",
+      "filePath": "songs/song9.mp3",
       "albumImage": "images/cover3.jpg"
     },
     {
       "id": "s10",
-      "title": "Song Ten",
-      "artist": "Artist J",
-      "filePath": "songs/song3.mp3",
+      "title": "Hum Aapke Bina",
+      "artist": "Arijit Singh",
+      "filePath": "songs/song10.mp3",
       "albumImage": "images/cover3.jpg"
     }
   ]
